@@ -2,7 +2,7 @@
 
 This presents an `Event` class that can register 'handlers' the are then called with any arguments sent to the `Event#broadcast` method.
 
-It uses rvm to setup Ruby.
+It uses rbenv to setup Ruby.
 
 To test, run:
 
